@@ -7,7 +7,7 @@ Este repositório contém os códigos-fonte, exemplos práticos e listas de exer
 ## 📍 Informações Gerais
 
 * **Local:** Laboratório Prédio BICT.
-* **Horário:** Sábados, das 08h às 11h.
+* **Horário:** Sábados, das 08h às 11h20.
 * **Carga Horária:** 40 horas.
 * **Período:** De Novembro/2025 a Fevereiro/2026.
 
